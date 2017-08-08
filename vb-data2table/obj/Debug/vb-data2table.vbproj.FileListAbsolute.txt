@@ -1,0 +1,9 @@
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\bin\Debug\vb-data2table.exe.config
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\bin\Debug\vb-data2table.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\bin\Debug\vb-data2table.pdb
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\bin\Debug\vb-data2table.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\obj\Debug\vb_data2table.Resources.resources
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\obj\Debug\vb-data2table.vbproj.GenerateResource.Cache
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\obj\Debug\vb-data2table.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\obj\Debug\vb-data2table.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-data2table\vb-data2table\obj\Debug\vb-data2table.pdb
